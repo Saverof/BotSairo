@@ -1,0 +1,4 @@
+aiogram>=3.17.0
+aiosqlite>=0.20.0
+python-dotenv>=0.9.9
+nest-asyncio>=1.6.0
